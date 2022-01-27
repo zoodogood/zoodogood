@@ -1,5 +1,5 @@
 Мне просто везёт
-​![​github stats​](https://github-readme-stats.vercel.app/api?username=zoodogood&theme=dark&show_icons=true&hide_rank=true&locale=ru&border-radius=50)
+​![​github stats​](https://github-readme-stats.vercel.app/api?username=zoodogood&theme=discord_old_blurple&show_icons=true&hide_rank=true&locale=ru&border-radius=50)
 
 <details>
 <summary>Мои любимые проекты</summary>
