@@ -1,3 +1,6 @@
+Мне просто везёт
+​![​github stats​](https://github-readme-stats.vercel.app/api?username=zoodogood&theme=dark&show_icons=true)
+
 <details>
 <summary>Мои любимые проекты</summary>
 
